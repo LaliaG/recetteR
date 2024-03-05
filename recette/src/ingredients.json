@@ -1,0 +1,8 @@
+{
+    "ingredients": [ 
+        { "id": 1, "name": "Farine" },
+        { "id": 2, "name": "Sucre" },
+        { "id": 3, "name": "Lait" },
+        { "id": 4, "name": "Œuf" }
+]
+}
